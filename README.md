@@ -1,44 +1,79 @@
-# Hi, I'm Deep 👋
+<div align="center">
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
-[![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+# Deep Parmar
 
-> Building intelligent, full-stack systems — from deep learning medical diagnostics to real-time auction platforms and AI-powered assistants. I bridge the gap between robust backend architecture and meaningful AI integration.
+**Full-Stack Engineer · AI/ML Developer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deeplparmar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeeppParmar)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepparmar23082005@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🧑‍💻 About Me
 
-- 🩺 **[Medical Image Disease Detection](https://github.com/DeeppParmar)** – AI system using ResNet & DenseNet (121/169) for X-ray/CT scan analysis with Grad-CAM explainability and 2–3s inference latency
-- 🔗 **[URL Shortener Platform](https://github.com/DeeppParmar)** – Full-stack shortener with 10+ REST APIs, real-time analytics, rate limiting, and Supabase RLS security
-- 🤖 **[Hope AI](https://github.com/DeeppParmar)** – FastAPI assistant with dual-layer RAG caching, Gemini API integration, and structured evaluation across 50+ queries
-- 🏷️ **[Bid-Vault](https://github.com/DeeppParmar)** – Real-time auction platform (React + Supabase) with WebSocket bidding, 7 ML models, fraud detection, and AI listing generation
-- 💻 **Collaborative Code Editor** *(In Development)* – Real-time multi-user code editor with WebSocket-based synchronized editing
+Engineering student passionate about building **AI-powered systems** and **full-stack applications** that solve real problems. I work across the stack — from deep learning inference pipelines to real-time WebSocket platforms.
 
 ---
 
-## 🧠 What I Work With
+### 🛠️ Tech Stack
 
-**Languages:** Python · JavaScript · HTML · CSS  
-**Frameworks:** React.js · Node.js · Express.js · FastAPI · Flask · TensorFlow · PyTorch  
-**Databases:** MongoDB · PostgreSQL · SQLAlchemy  
-**Tools:** Git · Docker · Postman · VS Code
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 📬 Connect
+### 🚀 Projects
 
-[![LinkedIn](https://img.shields.io/badge/-deeplparmar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deeplparmar)
-[![GitHub](https://img.shields.io/badge/-DeeppParmar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DeeppParmar)
-[![Email](https://img.shields.io/badge/-deepparmar23082005@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deepparmar23082005@gmail.com)
+| Project | Description | Stack |
+|---|---|---|
+| 🩺 [**Medical Image Disease Detection**](#) | Deep learning system (ResNet + DenseNet 121/169) for X-ray & CT scan analysis with Grad-CAM explainability | Python · TensorFlow · PyTorch |
+| 🔗 [**URL Shortener Platform**](#) | Full-stack shortener with 10+ REST APIs, real-time analytics dashboard, rate limiting & Supabase RLS security | Node.js · React · PostgreSQL |
+| 🤖 [**Hope AI**](#) | FastAPI assistant with dual-layer RAG caching, Gemini API integration & structured evaluation across 50+ queries | FastAPI · Python · Gemini |
+| 🏷️ [**Bid-Vault**](#) | Real-time auction platform with WebSocket live bidding, 7 ML models (fraud detection, price prediction) & AI listing generation | React · TypeScript · Supabase · FastAPI |
+| 💻 **Collaborative Code Editor** *(In Dev)* | Real-time multi-user code editor with WebSocket-based synchronized editing and shared file updates | WebSocket · Node.js |
 
 ---
 
-> *"Ship things that matter — clean systems, real impact, no shortcuts."*
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeeppParmar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeppParmar&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build things that matter — clean systems, real impact."*
+
+</div>
