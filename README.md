@@ -54,7 +54,7 @@ Engineering student passionate about building **AI-powered systems** and **full-
 | Project | Description | Stack |
 |---|---|---|
 | 🩺 [**Medical Image Disease Detection**](https://medical-image-disease-detection-sys-seven.vercel.app/) | Deep learning system (ResNet + DenseNet 121/169) for X-ray & CT scan analysis with Grad-CAM explainability | Python · TensorFlow · PyTorch |
-| 🔗 [**URL Shortener Platform**](https://shorty-url-phi.vercel.app/) | Full-stack shortener with 10+ REST APIs, real-time analytics dashboard, rate limiting & Supabase RLS security | Node.js · React · PostgreSQL |
+| 🔗 [**URL Shortener Platform**](https://shorty-url-shortening-wheat.vercel.app/) | Full-stack shortener with 10+ REST APIs, real-time analytics dashboard, rate limiting & Supabase RLS security | Node.js · React · PostgreSQL |
 | 🤖 [**Hope AI**](https://poverty-support-assistant.vercel.app/) | FastAPI assistant with dual-layer RAG caching, Gemini API integration & structured evaluation across 50+ queries | FastAPI · Python · Gemini |
 | 🏷️ [**Bid-Vault**](https://auction-haus.vercel.app/) | Real-time auction platform with WebSocket live bidding, 7 ML models (fraud detection, price prediction) & AI listing generation | React · TypeScript · Supabase · FastAPI |
 | 💻 **Collaborative Code Editor** *(In Dev)* | Real-time multi-user code editor with WebSocket-based synchronized editing and shared file updates | WebSocket · Node.js |
