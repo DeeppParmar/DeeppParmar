@@ -60,7 +60,6 @@ Engineering student passionate about building **AI-powered systems** and **full-
 | 💻 **Collaborative Code Editor** *(In Dev)* | Real-time multi-user code editor with WebSocket-based synchronized editing and shared file updates | WebSocket · Node.js |
 
 ---
----
 
 <div align="center">
 
