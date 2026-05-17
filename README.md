@@ -63,12 +63,10 @@ Engineering student passionate about building **AI-powered systems** and **full-
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeeppParmar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeppParmar&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeeppParmar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeppParmar&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
