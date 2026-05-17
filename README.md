@@ -60,14 +60,6 @@ Engineering student passionate about building **AI-powered systems** and **full-
 | 💻 **Collaborative Code Editor** *(In Dev)* | Real-time multi-user code editor with WebSocket-based synchronized editing and shared file updates | WebSocket · Node.js |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeeppParmar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeeppParmar&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 <div align="center">
