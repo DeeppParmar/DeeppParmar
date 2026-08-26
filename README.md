@@ -62,29 +62,6 @@ I enjoy solving practical engineering problems involving **AI, scalable APIs, re
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
----
-
-### 💼 Experience
-
-**Microsoft Elevate Program — AI/ML Intern**
-*Jan 2026 – Apr 2026*
-
-* Built **EcoLens**, a two-stage waste-classification pipeline using **YOLOv8n + MobileNetV2**, classifying 10 waste types into 8 recycling categories with real-time inference on Azure.
-* Developed a **FastAPI backend** with rate limiting and WebSocket support for live scans.
-* Added **Grad-CAM explainability** and Supabase-based prediction logging for review and auditing.
-
-**CSRBOX — AI Intern**
-*Jul 2025 – Aug 2025*
-
-* Built a FastAPI-based welfare assistant for searching government schemes and generating structured responses.
-* Automated backend workflows and email follow-ups to reduce manual outreach.
-
-**Meetanshi — Web Development Intern**
-*Aug 2024*
-
-* Built and maintained responsive Magento storefront pages and resolved 10+ layout and mobile-responsiveness issues.
-
----
 
 ### 🚀 Projects
 
@@ -96,14 +73,6 @@ I enjoy solving practical engineering problems involving **AI, scalable APIs, re
 | 🏷️ [**Bid-Vault**](https://auction-haus.vercel.app/)                                                   | Real-time auction platform with WebSocket bidding, PostgreSQL row locking, RLS security, fraud detection, price prediction and AI-generated listings                     | React · TypeScript · Supabase · FastAPI |
 | 🔗 [**Shorty — URL Shortener**](https://shorty-url-shortening-wheat.vercel.app/)                        | Full-stack URL shortener with real-time analytics, link expiration, malicious-URL blocking, JWT authentication and rate limiting                                         | React · TypeScript · Express · Supabase |
 | 💻 **Collaborative Code Editor** *(In Development)*                                                     | Real-time multi-user code editor with WebSocket-based synchronized editing and shared file updates                                                                       | Node.js · WebSockets                    |
-
----
-
-### 🏆 Achievements
-
-* **Microsoft Innovation Challenge** — Selected for Round 2 and presented the project in person at DDCIT, Gandhinagar.
-* **Meta × Scaler OpenEnv Hackathon** — Cleared Round 1 online assessment from a competitive national applicant pool.
-
 ---
 
 <div align="center">
